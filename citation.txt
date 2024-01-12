@@ -1,0 +1,6 @@
+@article{REPO084,
+    author = "Deng, Shangqi and Deng, Liang-Jian and Wu, Xiao and Ran, Ran and Wen, Rui",
+    booktitle = "the 32nd International Joint Conference on Artificial Intelligence",
+    title = "{Bidirectional Dilation Transformer for Multispectral and Hyperspectral Image Fusion}",
+    year = "2023"
+}
